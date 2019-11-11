@@ -1,4 +1,7 @@
 1. 아두이노 코드
+
+
+
 #include <Servo.h>
  
 Servo servoLeft;
@@ -76,4 +79,7 @@ void backward(int time)
 }
 
 2. 회로
-! [1] (Source/IR 1.jpg)
+
+
+
+! [1] (/Source/IR 1.jpg)
