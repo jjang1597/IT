@@ -82,4 +82,3 @@ void backward(int time)
 
 
 
-![1](/IT/Source/IR 1.jpg)
