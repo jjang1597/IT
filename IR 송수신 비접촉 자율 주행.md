@@ -82,4 +82,4 @@ void backward(int time)
 
 
 
-![1](/images/vue.png)
+![1](/images/IR 1.jpg)
