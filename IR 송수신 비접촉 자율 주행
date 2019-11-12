@@ -1,7 +1,5 @@
 1. 아두이노 코드
 
-
-
 #include <Servo.h>
  
 Servo servoLeft;
@@ -79,8 +77,6 @@ void backward(int time)
 }
 
 2. 회로
-
-
 
 https://github.com/jjang1597/IT/blob/master/Source/IR%201.jpg
 
